@@ -1,0 +1,3 @@
+﻿  add.c
+D:\c语言学习\tset.10_22\add.c(21,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  tset.10_22.vcxproj -> D:\c语言学习\tset.10_22\Debug\tset.10_22.exe

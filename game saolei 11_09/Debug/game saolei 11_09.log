@@ -1,0 +1,6 @@
+﻿  test.c
+D:\c语言学习\game saolei 11_09\test.c(20,15): warning C4047: “函数”:“char”与“char [7][7]”的间接级别不同
+D:\c语言学习\game saolei 11_09\test.c(20,11): warning C4024: “findmine”: 形参和实参 1 的类型不同
+D:\c语言学习\game saolei 11_09\test.c(20,21): warning C4047: “函数”:“char”与“char [7][7]”的间接级别不同
+D:\c语言学习\game saolei 11_09\test.c(20,17): warning C4024: “findmine”: 形参和实参 2 的类型不同
+  game saolei 11_09.vcxproj -> D:\c语言学习\game saolei 11_09\Debug\game saolei 11_09.exe

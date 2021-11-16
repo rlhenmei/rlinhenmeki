@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c语言学习\test_11_2\test.c(30,24): warning C4047: “函数”:“char *”与“char (*)[3]”的间接级别不同
+D:\c语言学习\test_11_2\test.c(30,20): warning C4024: “my_strlen”: 形参和实参 1 的类型不同
+  test_11_2.vcxproj -> D:\c语言学习\test_11_2\Debug\test_11_2.exe
