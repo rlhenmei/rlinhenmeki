@@ -1,0 +1,6 @@
+﻿  test.c
+D:\c语言学习\test_11_26 zuoye\test.c(14,14): warning C4047: “函数”:“char *”与“char (*)[20]”的间接级别不同
+D:\c语言学习\test_11_26 zuoye\test.c(14,12): warning C4024: “my_strcpy”: 形参和实参 1 的类型不同
+D:\c语言学习\test_11_26 zuoye\test.c(14,17): warning C4047: “函数”:“const char *”与“char (*)[20]”的间接级别不同
+D:\c语言学习\test_11_26 zuoye\test.c(14,15): warning C4024: “my_strcpy”: 形参和实参 2 的类型不同
+  test_11_26 zuoye.vcxproj -> D:\c语言学习\test_11_26 zuoye\Debug\test_11_26 zuoye.exe

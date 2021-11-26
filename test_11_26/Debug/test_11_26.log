@@ -1,0 +1,4 @@
+﻿  add.c
+D:\c语言学习\test_11_26\add.c(4,39): warning C4028: 形参 3 与声明不同
+D:\c语言学习\test_11_26\add.c(5,1): warning C4029: 声明的形参表不同于定义
+  test_11_26.vcxproj -> D:\c语言学习\test_11_26\Debug\test_11_26.exe
