@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c语言学习\test_12_12\test.c(49,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\c语言学习\test_12_12\test.c(58,16): warning C4018: “<=”: 有符号/无符号不匹配
+  test_12_12.vcxproj -> D:\c语言学习\test_12_12\Debug\test_12_12.exe
