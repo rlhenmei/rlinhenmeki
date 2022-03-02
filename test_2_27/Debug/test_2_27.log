@@ -1,0 +1,7 @@
+﻿  Contast.c
+D:\c语言学习\test_2_27\Contast.c(57,1): warning C4029: 声明的形参表不同于定义
+D:\c语言学习\test_2_27\Contast.c(86,26): warning C4028: 形参 1 与声明不同
+D:\c语言学习\test_2_27\Contast.c(231,62): warning C4101: “Modifytale”: 未引用的局部变量
+D:\c语言学习\test_2_27\Contast.c(231,46): warning C4101: “Modifyaddr”: 未引用的局部变量
+D:\c语言学习\test_2_27\Contast.c(231,32): warning C4101: “Modifysex”: 未引用的局部变量
+  test_2_27.vcxproj -> D:\c语言学习\test_2_27\Debug\test_2_27.exe
