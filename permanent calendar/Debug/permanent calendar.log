@@ -1,0 +1,3 @@
+﻿  test.c
+D:\c语言学习\permanent calendar\test.c(7,8): warning C4013: “system”未定义；假设外部返回 int
+  permanent calendar.vcxproj -> D:\c语言学习\permanent calendar\Debug\permanent calendar.exe
